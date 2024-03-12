@@ -65,3 +65,31 @@ body {
   .score-title, #restart-button {
     font-size: 16px;
   }
+  .how-to-play {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #EEE4DA;
+  border: 2px solid #BBADA0;
+  border-radius: 6px;
+}
+
+.how-to-play h2 {
+  font-size: 24px;
+  color: #776E65;
+  margin-bottom: 10px;
+}
+
+.how-to-play p {
+  font-size: 16px;
+  color: #776E65;
+  margin-bottom: 10px;
+}
+
+.how-to-play a {
+  color: #645749;
+  text-decoration: none;
+}
+
+.how-to-play a:hover {
+  text-decoration: underline;
+}
