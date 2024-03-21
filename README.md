@@ -4,7 +4,7 @@ A simple implementation of the classic 2048 game in HTML, CSS, and JavaScript.
 
 #### Interface
 
-Play the game [here-->2048X]([https://adi-gitx.github.io/2048-Game/](https://2048x.vercel.app/)):
+Play the game [here]([https://adi-gitx.github.io/2048-Game/](https://2048x.vercel.app/)):
 
 - Clean and minimalistic design for a distraction-free gaming experience.
 - Use arrow keys to move tiles and merge them to reach the 2048 tile.
